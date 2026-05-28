@@ -1,2 +1,3 @@
 Projektstart
 Version: 1.0
+Kontakt: support@example.com
